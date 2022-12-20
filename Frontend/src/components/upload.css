@@ -1,0 +1,61 @@
+.row{
+    width: 500px;
+    min-height: 370px;
+    padding: 20px 10px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: rgb(131, 156, 239);
+}
+
+.row button.choose{
+    background-color: white;
+    border: 1px solid black;
+    height: 200px;
+    width: 470px;
+    letter-spacing: 1.3px;
+    font-size: 20px;
+    text-transform: uppercase;
+    cursor: pointer;
+    transition: all 0.5s;
+}
+.row button.choose:hover{
+    border-color: rgb(172, 172, 9);
+    color: black;
+}
+form{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+.row input{
+    width: 470px;
+    height: 40px;
+    padding: 5px 15px;
+    outline: none;
+    border: none;
+    letter-spacing: 1.3px;
+    margin-top: 15px;
+}
+.row button.add{
+    background-color: black;
+    border: none;
+    padding: 10px 25px;
+    letter-spacing: 1.3px;
+    font-size: 18px;
+    text-transform: uppercase;
+    cursor: pointer;
+    transition: all 0.5s;
+    color: white;
+    box-shadow: 0 0 5px 0 black;
+    margin-top: 25px;
+}
+.row button.add:hover{
+    background-color: white;
+    color: black;
+}
+.uploadImage{
+    width: 350px;
+    filter: drop-shadow(0 0 10px white);
+}

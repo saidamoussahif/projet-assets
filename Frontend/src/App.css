@@ -1,0 +1,12 @@
+/* .container{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}  */
+.rowApp:first-child{
+    margin-top: 40px;
+}
+.rowApp:last-child{
+    margin-bottom: 30px;
+}
