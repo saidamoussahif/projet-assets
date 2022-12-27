@@ -1,6 +1,5 @@
 # projet-assets
-
-Réalisation d'un CRUD basique.
+ CRUD Image.
 
 # Technologies
 React
