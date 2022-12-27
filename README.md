@@ -2,12 +2,13 @@
  CRUD Image.
 
 # Technologies
-React
-Node
-Express
-Multer
-Mongoose
-MongoDB 
+
+- React
+- Node
+- Express
+- Multer
+- Mongoose
+- MongoDB 
 
 
 We will build a basic React front end with a file picker as our interface to post to the backend. For the backend we will use
